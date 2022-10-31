@@ -1,0 +1,32 @@
+*input number of planes
+
+5
+*====================
+*input wave generation: 1=periodic; 2=half cosine; 3=solitary
+
+3
+*=======================
+*wave period (s), wave height (m) phase lag(rad) of wavemaker
+
+0   0.0638   0  
+*====================
+*input outlet bc type: 0=wall; 1=radiation
+
+0
+*====================
+*input number of wave gauge
+
+11
+*====================
+*input wave gauge x location
+
+8.9   10.6   12.644   13   13.462   13.732   14.005   14.024   14.045   14.12   14.57
+*====================
+*input number of pressure gauge
+
+12
+*====================
+*input pressure gauge x location
+
+13.63   13.67    13.70   13.73   13.77   13.80   13.83   13.86   13.97   13.99   14.01   14.02 
+*file end

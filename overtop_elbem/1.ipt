@@ -1,0 +1,43 @@
+*input the coordinate
+* x  y  z
+
+0	0
+10	0
+13.6	0.18
+13.76	0.22
+0	0.22
+*====================
+*input the element number
+
+1366
+20
+20
+1000
+20
+*====================
+*input the bundary type
+*1 = phi is given, 0 = partial phi is given
+
+1
+0
+0
+0
+0
+*====================
+*input the location of the toe and top of the seawall
+
+13.6   0.18
+13.9   0.256
+*=======================
+*input the gaussian integratial points no.
+
+8 
+*=======================
+*input the gravity, mu, channel weidth, tho
+
+9.81   0   20   1.0   998.2
+*=======================
+*endtime, delt time, output step, icon, niter, etol
+
+30   0.001   1   100   4000   1.0e-6
+*file end
