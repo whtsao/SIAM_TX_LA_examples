@@ -17,4 +17,4 @@ SWE model - OK
 Hsiao, S.C. and Lin, T.C., 2010. Tsunami-like solitary waves impinging and overtopping an impermeable seawall: Experiment and RANS modeling. Coastal Engineering, 57, 1-18.  
 Two-phase RANS model - OK  
 Potential-flow model - curl wave wasn't shown  
-SWE model - fixing NG results  
+SWE model - OK  
